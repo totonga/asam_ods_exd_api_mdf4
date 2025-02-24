@@ -7,9 +7,10 @@
     "customizations": {
         "vscode": {
             "extensions": [
-				"editorconfig.editorconfig",
+                "editorconfig.editorconfig",
                 "github.vscode-pull-request-github",
                 "github.vscode-github-actions",
+                "ms-azuretools.vscode-docker",
                 "ms-toolsai.python-ds-extension-pack",
                 "ms-python.python",
                 "ms-python.vscode-pylance",
@@ -17,8 +18,8 @@
                 "ms-python.black-formatter",
                 "ms-python.isort",
                 "ms-python.pylint",
-				"ms-vsliveshare.vsliveshare",
-				"ryanluker.vscode-coverage-gutters",
+                "ms-vsliveshare.vsliveshare",
+                "ryanluker.vscode-coverage-gutters",
                 "streetsidesoftware.code-spell-checker",
                 "ms-vscode.live-server",
                 "GitHub.copilot"
